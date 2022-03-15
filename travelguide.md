@@ -31,7 +31,7 @@ https://www.myhelsinki.fi/en/see-and-do/sights/haltiala-farm
 
 ### Stockholm
 
-### Djurgåden
+### Djurgården
 
 This is an island close to the city centre of Stockholm where you will find a
 lot of forrest and "green areas" to walk around in. There is also a lot of
