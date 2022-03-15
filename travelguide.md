@@ -27,3 +27,12 @@ nature, and have dinner and beers at the farm!
 
 https://www.myhelsinki.fi/en/see-and-do/sights/haltiala-farm
 
+# Sweden
+
+### Stockholm
+
+### Djurgåden
+
+This is an island close to the city centre of Stockholm where you will find a
+lot of forrest and "green areas" to walk around in. There is also a lot of
+restaurants and even a zoo and an amusement park.
