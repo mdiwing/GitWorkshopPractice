@@ -38,3 +38,14 @@ lot of forrest and "green areas" to walk around in. There is also a lot of
 restaurants and even a zoo and an amusement park.
 
 https://royaldjurgarden.se/
+
+# Sweden
+
+### Stockholm
+
+### Hammarbybacken
+
+If feel like skiing while visiting Stockholm during winter time there is a small
+ski slope close to the city centre of Stockholm. 
+
+https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken/
