@@ -1,10 +1,10 @@
-﻿# Open Source methods training
+﻿# Git workshop - Open Source Methods and Flow
 
 Hello,
 
-I crafted this little training for people new to open source methods and
-tools. This was part of "Open Source Day" at a customer I work with, but
-seems handy as a workshop of it's own. This allows you to practice how your
+A colleage of mine crafted this little training for people new to open source methods and
+tools. This was part of "Open Source Day" at the customer he work with, now its reused 
+as a workshop of it's own. This allows you to practice how your
 teams could utilize open source management of code, configs or docs, using
 the typical methods based around Git version control.
 
@@ -21,7 +21,7 @@ matter. Anyone can think of a place you'd recommend others to visit or
 to avoid :)
 
 We collect the stories into [travelguide.md](travelguide.md) file. An easier
-method is to just collect them as separate files from participants, into this
+method is to just collect them as separate files from participants i.e. yourName_travelguide.md into this
 git repository.
 
 # Prerequisites
