@@ -45,8 +45,8 @@ So with this idea, let's go through the steps of a typical git workflow:
 1. Fork or clone this repo (take a copy)
 2. Create branch for your idea (feature branch) or fix to an existing idea
    (bugfix branch)
-3. Create new or update existing files as you see fit
-3a. Easy: Add a new file (eg. my_traveguide.md) with your recommendation
+3. Create new or update existing files as you see fit.
+3a. Easy: Add a new file (eg. my_traveguide.md) with your recommendation.
 3b. Advanced: Edit the travelguide.md file with your changes. 
 4. Commit changes to your git repository
 5. Take in the changes others have done in meanwhile, and tidy up your version
@@ -56,7 +56,6 @@ So with this idea, let's go through the steps of a typical git workflow:
 8. Review the changes with auditors
 9. Your changes will be accepted and added, or marked for needing further
    enhancements.
-9a: Advanced: close the issue as well.
 10. If accepted, smile and be happy, you just contributed to travel book!
     If you got denied, go to step 3 and enhance the contribution, and work
     through the review again.
