@@ -26,28 +26,27 @@ git repository.
 
 # Prerequisites
 
-1. Organizer, fork this repo
-2. Participant, I recommend to install git into your workstation.
-   I linux it's available via your systems packet manager
-   (dnf/apt install git), in windows I know some use
-   [git for windows](https://git-scm.com/download/win). Brew install git
-   for mac.
-3. If you use good git portal (gitlab/github/gogs/gitea) they come
+
+1. Participant, I recommend to install git into your workstation.
+   In linux it's available via your systems packet manager(dnf/apt install git). 
+   In windows I know some use [git for windows](https://git-scm.com/download/win). 
+   On a Mac Git is preinstalled with latest OS, or you can Brew install git for mac. 
+   You can also use graphical git tools such as [GitHub Desktop](https://desktop.github.com/)
+2. If you use a good hosted git portal (gitlab/github/gogs/gitea) they come
    with editors and issue trackers, and you don't need to install a client.
 
 
 # Exercise workflow for the participant
 
-So with this idea, let's go through the typical process steps:
+So with this idea, let's go through the steps of a typical git workflow:
 
 ![process steps](./pics/steps.png)
 
-1. Fork this repo (take a copy) (unless you already have this in your git)
-1a. Advanced: If you want to use issue tracker to report an issue, do it here.
+1. Fork or clone this repo (take a copy)
 2. Create branch for your idea (feature branch) or fix to an existing idea
    (bugfix branch)
-3. changes
-3a. Easy: Add a file with your recommendation
+3. Create new or update existing files as you see fit
+3a. Easy: Add a new file (eg. my_traveguide.md) with your recommendation
 3b. Advanced: Edit the travelguide.md file with your changes. 
 4. Commit changes to your git repository
 5. Take in the changes others have done in meanwhile, and tidy up your version
@@ -79,22 +78,23 @@ If you go to command line, here are some typical commands needed:
 
 And when stuff goes wrong with git, [dangit!](https://dangitgit.com/)
 
-# Workflow for the organizer
+# Git Workflow models
 
-First it would be good to explain what is open source, and how the communities
-work. Also I showed up some projects that I know, and their processes and code
-of conducts. Likes of [OKD](https://www.okd.io/community/),
-[Ansible](https://docs.ansible.com/ansible/latest/community/) etc...
 
-Then I went through some git workflow models, likes of:
+Workflows in Git are guidelines and not structured rules defining methods on how to work and collaborate with git. 
+There are several types of workflows,logic is common and various tools differ just a bit. Workflows are normally based on common 
+guidenlines and then tailored to a spcific organizations or teams needs. 
 
 * [Git Organized](https://render.com/blog/git-organized-a-better-git-flow)
 * [GitFlow - Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [Forking - Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+* [GitLab Flow](https://docs.gitlab.com/ee/topics/gitlab_flow.html)
+* [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 
-My customer used atlassian tools, that's why atlassian links. If your peers
-use some other, there are likely docs also from other players. Logic is common
-and different tools differ just a bit.
+Also see [this](https://martinfowler.com/articles/branching-patterns.html) blog from Martin Fowler for useful information 
+on patterns for managing source code branches
+
+
 
 # End of the day
 
@@ -104,9 +104,9 @@ exercise prepares you to work efficiently together.
 
 Be polite, be accepting. Embrace collaboration!
 
-Have a good session, and send me a ping in twitter!
+Have a good session, and reach out to me for questions or comments!
 
 BR,
 
-Ilkka Tengvall
-Twitter: @ikkeT
+Mikael Diwing
+mdiwing@redhat.com
