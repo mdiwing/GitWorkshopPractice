@@ -59,6 +59,15 @@ https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken
 Awesome restaurant close by Red Hat office
 
 
+### Göteborg
+
+### Delsjön
+
+At Delsjön you can have a nice walk in the forest or rent a canoe and paddle from Stora delsjön to Lilla delsjön 
+
+https://www.npk.nu/delsjonskanotcentral
+
+
 # Sweden
 
 ### Malmö
