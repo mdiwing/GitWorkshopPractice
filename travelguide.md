@@ -58,6 +58,7 @@ https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken
 
 Awesome restaurant close by Red Hat office
 
+# Sweden
 
 ### Göteborg
 
@@ -76,3 +77,5 @@ https://www.npk.nu/delsjonskanotcentral
 
 If you are in Malmö and want to eat or drink something visit Lilla Torg, which
 is a square filled with pubs and restaurants.
+
+https://www.tripadvisor.se/RestaurantsNear-g189839-d562381-Little_Square-Malmo_Skane_County.html
