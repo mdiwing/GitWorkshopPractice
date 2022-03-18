@@ -42,7 +42,7 @@ So with this idea, let's go through the steps of a typical git workflow:
 
 ![process steps](./pics/steps.png)
 
-1. Fork or clone this repo (take a copy)
+1. Fork this repo (take a copy)
 2. Create branch for your idea (feature branch) or fix to an existing idea
    (bugfix branch)
 3. Create new or update existing files as you see fit.
