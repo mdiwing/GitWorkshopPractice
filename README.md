@@ -73,7 +73,7 @@ If you go to command line, here are some typical commands needed:
 * Commit file into version control ```git commit -m "my city"```
 * Tidy up changes, pull other peoples' changes
   ```git fetch origin; git rebase -i origin/main```
-* Push changes to git portal ```git push```
+* Push changes to git portal and specify the shared origin repo ```git push --set-upstream origin my_story```
 
 And when stuff goes wrong with git, [dangit!](https://dangitgit.com/)
 
