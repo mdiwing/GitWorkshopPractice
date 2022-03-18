@@ -52,6 +52,15 @@ https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken
 
 # Sweden
 
+### Stockholm
+
+### Glaze
+
+Awesome restaurant close by Red Hat office
+
+
+# Sweden
+
 ### Malmö
 
 ### Lilla Torg
