@@ -46,7 +46,7 @@ https://royaldjurgarden.se/
 ### Hammarbybacken
 
 If feel like skiing while visiting Stockholm during winter time there is a small
-ski slope close to the city centre of Stockholm. 
+ski slope close to the city centre of Stockholm.
 
 https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken/
 
@@ -59,3 +59,12 @@ https://www.skistar.com/sv/vara-skidorter/hammarbybacken/vinter-i-hammarbybacken
 At Delsjön you can have a nice walk in the forest or rent a canoe and paddle from Stora delsjön to Lilla delsjön 
 
 https://www.npk.nu/delsjonskanotcentral
+
+# Sweden
+
+### Malmö
+
+### Lilla Torg
+
+If you are in Malmö and want to eat or drink something visit Lilla Torg, which
+is a square filled with pubs and restaurants.
