@@ -13,17 +13,7 @@ what to avoid, if you absolutely feel so :D
 
 Example:
 
-# Finland
 
-### Helsinki
-
-### Haltiala Farm - out door day
-
-There is a nice farm with a beer garden at the river bordering Helsinki and
-Vantaa. It is towards NE, the airport. I often combine the visit to some
-outdoor day, there is nice forest parks and river walks near by the farm. At
-winter it has great skiing tracks. Why not go do some sport for some hours in
-nature, and have dinner and beers at the farm!
 
 https://www.myhelsinki.fi/en/see-and-do/sights/haltiala-farm
 
