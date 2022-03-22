@@ -104,7 +104,7 @@ If you want to see Sweden's best football team Djurgården play football, then t
 
 ### Grillpalatset
 
-The best "Tunnbrödsrulle" south of Stockholm is served here. A great meal for a resonable prize. 
+The best "Tunnbrödsrulle" south of Stockholm is served here. A great meal for a reasonable prize. 
 
 # Sweden
 
