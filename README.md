@@ -82,7 +82,7 @@ And when stuff goes wrong with git, [dangit!](https://dangitgit.com/)
 
 Workflows in Git are guidelines and not structured rules defining methods on how to work and collaborate with git. 
 There are several types of workflows,logic is common and various tools differ just a bit. Workflows are normally based on common 
-guidenlines and then tailored to a spcific organizations or teams needs. 
+guidenlines and then tailored to a specific organizations or teams needs. 
 
 * [Git Organized](https://render.com/blog/git-organized-a-better-git-flow)
 * [GitFlow - Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
