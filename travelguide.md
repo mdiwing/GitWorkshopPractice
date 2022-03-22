@@ -91,8 +91,8 @@ If you are short on time on your wat to Nyköping, this is a place you can eat a
 
 # Sweden
 
-### Stockholm 
+### Göteborg 
 
-### Tele2 Arena
+### Gamla Ullevi
 
-If you want to see Sweden's best football team Djurgården play football, then this is the place for you
+If you want to see Sweden's best football team IFK Göteborg play football, then this is the place for you
