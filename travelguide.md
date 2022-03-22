@@ -13,7 +13,7 @@ what to avoid, if you absolutely feel so :D
 
 Example:
 
-# Finland
+# Filand
 
 ### Helsinki
 
